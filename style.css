@@ -95,16 +95,16 @@
             }
             
 /*----------------------------BLOG-----------------------------------*/
-
         #blogpost{
+                font-family:monospace;
                 text-align: justify;
                 outline: 1px;
                 outline-color:black;
                 outline-style:solid;
                 padding:10px;
-                margin:10px;
+                margin:70px;
             }
-            .centerblog {
+        #centerblog {
                 height:auto;
                 width:100%;
                 margin-left: auto;
