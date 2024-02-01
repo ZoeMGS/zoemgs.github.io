@@ -30,7 +30,7 @@
                 font-style: italic;
             }
             li {
-                font-size:16px;
+                font-size:17px;
                 padding-bottom:10px;
                 text-align: left;
             }
@@ -47,11 +47,11 @@
             }
             .para2 {
                 text-align: justify;
-                font-size: 15px;
+                font-size: 17px;
                 margin-bottom: 15px;
             }
             .contrast {
-                background-image: url(https://media.githubusercontent.com/media/ZoeMGS/zoemgs.github.io/main/assets/DONTGO_1080p2.gif);
+                background-image: url(https://media.githubusercontent.com/media/ZoeMGS/zoemgs.github.io/main/assets/DONTGO_1080p3.gif);
                 background-position: center;
                 filter:invert(1);
                 background-size: 100%;
