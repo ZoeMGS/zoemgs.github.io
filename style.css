@@ -29,6 +29,11 @@
                 text-align: right;
                 font-style: italic;
             }
+            p {
+                text-align: justify;
+                font-size: 25px;
+                margin-bottom: 10px;
+            }
             li {
                 font-size:17px;
                 padding-bottom:10px;
@@ -41,12 +46,12 @@
 
             }
             .para {
-                text-align: justify;
+                text-align: left;
                 font-size: 25px;
                 margin-bottom: 10px;
             }
             .para2 {
-                text-align: justify;
+                text-align: left;
                 font-size: 20px;
                 margin-bottom: 15px;
             }
