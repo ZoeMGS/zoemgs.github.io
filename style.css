@@ -73,25 +73,68 @@
                 margin:0px;
                 font-weight: bold;
                 padding-bottom: 30px;
-                white-space:nowrap;
                 line-height: 200%;
-                color:transparent;
                 background: inherit;
                 background-clip: text;
                 filter:invert(1);
             }
             .center {
-                overflow-y: auto;
                 height:auto;
                 width:100%;
                 margin-left: auto;
                 margin-right: auto;
                 width:70%;
             }
+
             a:link {
-                font-style: italic;
-                text-decoration: none;
                 color:transparent;
-                background: inherit;
-                background-clip: text;
+                text-decoration: none;
             }
+/*----------------------------BLOG-----------------------------------*/
+
+        #blogpost{
+                text-align: justify;
+                outline: 1px;
+                outline-color:black;
+                outline-style:solid;
+                padding:10px;
+                margin:10px;
+            }
+            .centerblog {
+                height:auto;
+                width:100%;
+                margin-left: auto;
+                margin-right: auto;
+                width:90%;
+            }
+   
+            .blogh1 {
+                color: black;
+                font-size: 25px;
+                text-align: left;
+                font-weight: bold;
+            }
+            .blogbyline {
+                text-align: justify;
+                font-size:16px;
+                margin-bottom: 15px;
+
+            }
+            .blogdate {
+                text-align: right;
+                font-size: 15px;
+                margin-bottom: 10px;
+ 
+            }
+            .blogtext {
+                text-align: justify;
+                font-size: 15px;
+                margin-top:5px;
+                margin-bottom: 10px;
+
+            }
+            #wrap-flex {
+                display: flex;
+                justify-content: space-between;
+            }
+  
