@@ -18,7 +18,7 @@
                 filter:invert(1)
             }
             h2 {
-                font-size: 30px;
+                font-size: 25px;
                 text-align: left;
                 font-style: italic;
                 text-decoration: underline;
@@ -31,7 +31,7 @@
             }
             p {
                 text-align: justify;
-                font-size: 25px;
+                font-size: 20px;
                 margin-bottom: 10px;
             }
             li {
@@ -88,7 +88,7 @@
                 width:100%;
                 margin-left: auto;
                 margin-right: auto;
-                width:90%;
+                width:80%;
             }
             a:link {
                 text-decoration: none;
@@ -106,17 +106,18 @@
                 outline-color:black;
                 outline-style:solid;
                 padding:10px;
-                margin-left: 5vmax;
-                margin-right: 5vmax;
+                margin-left: auto;
+                margin-right: auto;
                 margin-top:60px;
                 margin-bottom:60px;
+                width:80%;
             }
         #centerblog {
                 height:auto;
                 width:100%;
                 margin-left: auto;
                 margin-right: auto;
-                width:90%;
+                width:80%;
             }
    
             .blogh1 {
