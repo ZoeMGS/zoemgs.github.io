@@ -15,7 +15,7 @@
                 color:transparent;
                 background: inherit;
                 background-clip: text;
-                filter:invert(1)
+                filter:invert(1)                
             }
             h2 {
                 font-size: 25px;
@@ -64,6 +64,7 @@
                 background-position: center;
                 filter:invert(1);
                 background-size: 100%;
+                pointer-events: none;
             }
             .blt {
                 text-align: justify;
@@ -148,6 +149,7 @@
                 -ms-transform: translate(-50%, -50%);
                 text-align: center;
                 width: 400px;
+                pointer-events: none;
             }
             .middle3 {
                 transition: .5s ease;
@@ -159,6 +161,7 @@
                 -ms-transform: translate(-50%, -50%);
                 text-align: center;
                 width: 400px;
+                pointer-events: none;
             }
 
             .container:hover .image {
