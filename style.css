@@ -15,7 +15,7 @@
                 color:transparent;
                 background: inherit;
                 background-clip: text;
-                filter:invert(1)                
+                filter:invert(1);                
             }
             h2 {
                 font-size: 25px;
