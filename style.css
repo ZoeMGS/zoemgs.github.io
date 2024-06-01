@@ -37,6 +37,8 @@
             }
             p2 {
                 text-align: right;
+                font-size: 20px;
+                margin-bottom: 10px;
             }
             li {
                 font-size:17px;
@@ -105,6 +107,9 @@
                 margin-bottom: 60px;
                 width:80%;
             }
+            .toppara {
+                margin-top: 20px;
+            }
             .inline {
                 padding: 30px;
                 display:inline-block;
@@ -138,7 +143,7 @@
                 backface-visibility: hidden; 
             }
             .signature {
-                width: 300px;
+                width: 200px;
                 height: auto; 
             }
 
