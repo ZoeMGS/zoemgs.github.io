@@ -59,6 +59,9 @@
                 font-size: 20px;
                 margin-bottom: 15px;
             }
+            .justifyright {
+                text-align: right;
+            }
             .contrast {
                 background-image: url("https://media.githubusercontent.com/media/ZoeMGS/zoemgs.github.io/main/assets/pictures/DONTGO_1080p.gif");
                 background-position: center;
