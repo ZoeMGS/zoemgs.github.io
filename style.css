@@ -63,7 +63,7 @@
             .para3 {
                 text-align: left;
                 font-size: 20px;
-                margin-bottom: 15px;
+                margin-bottom: 10px;
                 text-indent: 10px;
             }
             .justifyright {
@@ -136,6 +136,10 @@
                 height: auto;
                 transition: .5s ease;
                 backface-visibility: hidden; 
+            }
+            .signature {
+                width: 15px;
+                height: auto; 
             }
 
             .middle {
