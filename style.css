@@ -33,6 +33,7 @@
                 text-align: justify;
                 font-size: 20px;
                 margin-bottom: 10px;
+                
             }
             li {
                 font-size:17px;
@@ -58,6 +59,12 @@
                 text-align: left;
                 font-size: 20px;
                 margin-bottom: 15px;
+            }
+            .para3 {
+                text-align: left;
+                font-size: 20px;
+                margin-bottom: 15px;
+                text-indent: 10px;
             }
             .justifyright {
                 text-align: right;
